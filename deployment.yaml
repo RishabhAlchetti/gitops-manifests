@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: rishabhalchetti/nginx-gitops:v1
+        image: rishabhalchetti/nginx-gitops:v2
         ports:
         - containerPort: 80
 
